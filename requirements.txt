@@ -1,0 +1,16 @@
+apache-airflow==2.5.1
+transformers==4.33.0
+datasets==2.12.0
+torch>=1.13
+fastapi
+uvicorn[standard]
+prometheus_client
+scikit-learn
+pandas
+sqlalchemy
+python-dotenv
+sentencepiece
+sacrebleu
+sentence-transformers
+streamlit
+pydantic

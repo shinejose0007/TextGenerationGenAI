@@ -1,0 +1,4 @@
+input,pred,ref
+summarize: Zugausfall am Hauptbahnhof wegen Signalstörung.,Zugausfall am Hauptbahnhof wegen Signalstörung.,Zugausfall am Hbf aufgrund Signalstörung.
+summarize: Wasserrohrbruch in der Friedrichstraße - Baustelle und Umleitung.,Wasserrohrbruch in der Friedrichstraße - Baustelle und Umleitung.,Wasserrohrbruch verursacht Umleitung.
+summarize: Verkehrsunfall an Kreuzung A - ein angefahrener Fußgänger,Verkehrsunfall an Kreuzung A - ein angefahrener Fußgänger.,"Verkehrsunfall an Kreuzung A, Fußgänger angefahren"
